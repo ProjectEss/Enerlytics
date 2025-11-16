@@ -16,3 +16,4 @@ pandas
 numpy
 lightgbm
 scikit-learn
+holidays
